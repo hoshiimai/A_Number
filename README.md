@@ -20,3 +20,10 @@
 何かご不明な点等ございましたらお問い合わせください。  
 anumberplace@gmail.com  
 Twitter：@anumberplace  
+
+
+
+  
+### [リンク] 
+Android : https://play.google.com/store/apps/details?id=com.sudoku.anumbe
+ios     : https://apps.apple.com/jp/app/a-number/id6450869818
