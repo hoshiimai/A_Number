@@ -19,7 +19,6 @@
 ### [お問い合わせ先]  
 何かご不明な点等ございましたらお問い合わせください。  
 anumberplace@gmail.com  
-Twitter：@anumberplace  
 
 
 
