@@ -24,5 +24,7 @@ anumberplace@gmail.com
 
   
 ### [リンク] 
+https://anumberplace.com/  
+    
 Android : https://play.google.com/store/apps/details?id=com.sudoku.anumber  
 ios     : https://apps.apple.com/jp/app/a-number/id6450869818
